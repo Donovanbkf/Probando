@@ -1,6 +1,7 @@
 public class lala {
-    public boolean casa;{
+    public boolean casa(){
         int a=5;
-        int b=6
+        int b=6;
+        return true;
     }
 }
