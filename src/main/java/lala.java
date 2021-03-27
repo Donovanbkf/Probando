@@ -5,6 +5,7 @@ public class lala {
         int b=9;
         int c=7;
         int x=0;
+        int bobo=0;
         int j=1;
         return true;
     }
